@@ -1,4 +1,4 @@
-hello, here!! :)
+hello, there!! :)
 
 this repo just me learning game dev from scratch by making small projects here.
 
