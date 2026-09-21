@@ -1,5 +1,7 @@
-hello, there!! :)
+hey guys!! :D
 
-this repo is just me learning game dev from scratch by making small projects here,
+Welcome to my game development journey.
 
-for day by day until i got good at it. :D
+right here in this repo i'm just learning game dev from scratch by making small projects here,
+
+until i master it. :D
